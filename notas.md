@@ -1,0 +1,1 @@
+ahora me gustaria hacer un efecto de @defer como hace angular o ya lo tiene y segudno deja todo listo para adaptable para android osea responsible
